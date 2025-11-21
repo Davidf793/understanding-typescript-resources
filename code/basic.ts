@@ -1,7 +1,7 @@
-let userName: string;
+let userName1: string;
 let userAge = 38;
 
-userName = 'Max';
+userName1 = 'Max';
 //userAge = '34';
 
 // assumes 'a' is type number because of explicit assignment and 'b' because of value 5
